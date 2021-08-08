@@ -11,7 +11,6 @@ Altrid LMS 는 영어 학원 맞춤형 학습관리시스템으로써, 웹 캠�
 
 ### 정보 
 - URL : https://altridedge.com/
-- 포트폴리오 : https://www.dev-jun.com/portfolio/altrid-lms
 - 시연 영상 : https://www.youtube.com/watch?v=6pLCnaG3HS8&ab_channel=AltridLMS
 
 <br/>
