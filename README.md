@@ -28,4 +28,4 @@ Altrid LMS 는 영어 학원 맞춤형 학습관리시스템으로써, 웹 캠�
 
 해당 Repository는 서비스의 **소개 페이지**와 관련된 코드입니다. **LMS 서비스** Respository는 보안상 ```비공개``` 처리되었습니다.
 
-> [@jun094](https://github.com/jun094) 의 [eduity-introduce](https://github.com/jun094/altrid-introduce) 에서 추가됨.
+> [@jun094](https://github.com/jun094) 의 [altrid-introduce](https://github.com/jun094/altrid-introduce) 에서 추가됨.
