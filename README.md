@@ -34,7 +34,7 @@ src/configs/configs.js 파일에 buildMode = 'dev' 확인
 
 ### 모듈 설치 및 실행 ###
 $ yarn install
-$ yarn run dev
+$ yarn start
 ```
 
 ## 빌드 및 업로드
